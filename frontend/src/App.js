@@ -13,12 +13,12 @@ class App extends Component {
         </div>
         <p className="App-intro">
           <Checkout
-            name={'The Road to learn React'}
+            name={'Follow your favorite sports team at'}
             description={'Open Source React Book'}
             amount={1}
           />
         </p>
-        <p>Found in <a href="https://roadtoreact.com/">the Road to learn React</a></p>
+        <p>Follow your favorite sports team at <a href="http://www.espn.com/">ESPN</a></p>
       </div>
     );
   }
